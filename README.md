@@ -215,3 +215,6 @@
 ### orbital_3_full_scale_backlash_S0_5_after_CW_backlash_plot.png
 ![orbital_3_full_scale_backlash_S0_5_after_CW_backlash_plot.png](https://github.com/rasmushedeager/EXT-DATA/blob/main/graphs/orbital_3_full_scale_backlash_S0_5_after_CW_backlash_plot.png?raw=true)
 ***
+
+# Video of Orbital Skip
+![Orbital skip](https://github.com/rasmushedeager/EXT-DATA/blob/main/media/orbital_skip.mp4?raw=true)
