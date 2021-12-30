@@ -217,4 +217,4 @@
 ***
 
 # Video of Orbital Skip
-![Orbital skip](https://github.com/rasmushedeager/EXT-DATA/blob/main/media/orbital_skip.mp4?raw=true)
+https://github.com/rasmushedeager/EXT-DATA/blob/main/media/orbital_skip.mp4?raw=true
